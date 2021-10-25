@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ali Simsek.
 - 👀 I’m interested in Software Development, Machine Learning & Computer Vision.
-- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Android Development, Back-end Development.
 - 📫 How to reach me "alisimsek.dev@gmail.com"
 
